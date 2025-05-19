@@ -46,4 +46,8 @@ This project explored impactful sales questions, such as:
 🎥 [Click here to view the video presentation](https://drive.google.com/file/d/1Vz27CuFdskNsoOVZK9JC9XKw9Csr17QH/view?usp=sharing)  
 🧩 Dashboard Screenshots and visuals included in `/assets`
 
+![Dashboard_image1](https://github.com/user-attachments/assets/e8cf086a-fa1d-4159-b22b-3242889a689b)
+
+![Dashboard_image2](https://github.com/user-attachments/assets/c4922d73-fd5a-4d9b-b835-187eb708dd8d)
+
 ---
