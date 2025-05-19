@@ -51,3 +51,9 @@ This project explored impactful sales questions, such as:
 ![Dashboard_image2](https://github.com/user-attachments/assets/c4922d73-fd5a-4d9b-b835-187eb708dd8d)
 
 ---
+
+## 🔗 Let's Connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arfa-taj-n/) or drop a ⭐ if you found this helpful!
+
+---
